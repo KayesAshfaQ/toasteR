@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-
+import com.kayes.custom_toaster.ToasteR;
 
 
 public class MainActivity extends AppCompatActivity {
