@@ -25,9 +25,7 @@
             android:id="@+id/icon"
             android:layout_width="24dp"
             android:layout_height="24dp"
-            app:srcCompat="@drawable/ic_close"
-            app:tint="@android:color/white"
-            tools:ignore="VectorDrawableCompat" />
+            app:tint="@android:color/white" />
 
         <View
             android:layout_width="10dp"
@@ -40,7 +38,6 @@
             android:gravity="center"
             android:maxLines="1"
             android:singleLine="true"
-            android:text="Error Toast"
             android:textColor="#f2f2f2"
             android:textSize="16sp" />
 
