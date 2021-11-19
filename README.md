@@ -1,4 +1,4 @@
-# toastR
+# toasteR
 [![](https://jitpack.io/v/KayesAshfaQ/toastR.svg)](https://jitpack.io/#KayesAshfaQ/toastR)
 
 Custom toast maker for android.
